@@ -5,7 +5,8 @@
 
 ### Решение 1
 
-![Скриншот-1](https://github.com/zelenkins/zabbix2_hw/blob/main/img/1template.png)
+![Скриншот-0](https://github.com/zelenkins/zabbix2_hw/blob/main/img/1template.png)
+![Скриншот-1](https://github.com/zelenkins/zabbix2_hw/blob/main/img/1items.png)
 
 ---
 
@@ -28,7 +29,7 @@
 ![Скриншот-4](https://github.com/zelenkins/zabbix2_hw/blob/main/img/4hosts_zt.png)
 ![Скриншот-5](https://github.com/zelenkins/zabbix2_hw/blob/main/img/5hosts_zt_la.png)
 
-Zabbix не разрешает одному хосту иметь два итема с одинаковым ключом, поэтому привязать два шаблона невозможно. В моем случае это system.cpu.util.
+Zabbix не разрешает одному хосту иметь два итема с одинаковым ключом, поэтому привязать два шаблона невозможно. В моем случае это, например, system.cpu.util.
 
 ---
 
